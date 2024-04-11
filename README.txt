@@ -1,21 +1,10 @@
+Personal Wesbite build via project-based learning
+
+This is my first introduction to HTML5 & CSS3! I started by using an existing template and going through the files familiarizing myself with the code and how it works. 
+
+This project is still a work in progress as I am still making my own changes, adding my own features, and expanding my skills with HTML5 and CSS3
+
 Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
 
 Credits:
 
